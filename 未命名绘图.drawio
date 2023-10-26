@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T10:35:19.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9r7Ag3VTTqihkB_2CnfD" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-26T13:38:22.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="82EF_8Q8Q3VQMPHBafp0" version="22.0.8" type="github" pages="3">
   <diagram name="第 1 页" id="99R2UvONL6ngbdWBcpjd">
     <mxGraphModel dx="948" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
@@ -586,7 +586,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QERZvngCkR6X80OnYI7q" name="第 3 页">
-    <mxGraphModel dx="2074" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="1221" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -696,8 +696,8 @@
         <mxCell id="Xe7Tip1T2eoXNA6vzXPs-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="490" y="1010" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xe7Tip1T2eoXNA6vzXPs-32" value="$$&#xa;v_{int}&#xa;$$" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="502.5" y="1000" width="27.5" height="30" as="geometry" />
+        <mxCell id="Xe7Tip1T2eoXNA6vzXPs-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$&lt;br&gt;v_{int}&lt;br&gt;$$&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="501.25" y="995" width="27.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xe7Tip1T2eoXNA6vzXPs-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -749,8 +749,8 @@
         <mxCell id="Xe7Tip1T2eoXNA6vzXPs-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="702.5" y="1012.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xe7Tip1T2eoXNA6vzXPs-44" value="$$&#xa;v_{int}&#xa;$$" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="717.5" y="997.5" width="22.5" height="42.5" as="geometry" />
+        <mxCell id="Xe7Tip1T2eoXNA6vzXPs-44" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$&lt;br&gt;v_{int}&lt;br&gt;$$&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="716.25" y="995" width="22.5" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="Xe7Tip1T2eoXNA6vzXPs-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Xe7Tip1T2eoXNA6vzXPs-46" target="Xe7Tip1T2eoXNA6vzXPs-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -831,8 +831,8 @@
         <mxCell id="Xe7Tip1T2eoXNA6vzXPs-63" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;课程学习&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="841.25" y="1052.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xe7Tip1T2eoXNA6vzXPs-64" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;池化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="926.25" y="930" width="50" height="30" as="geometry" />
+        <mxCell id="Xe7Tip1T2eoXNA6vzXPs-64" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;平均池化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="911.25" y="920" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xe7Tip1T2eoXNA6vzXPs-65" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;训练&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="995" y="935" width="50" height="30" as="geometry" />
