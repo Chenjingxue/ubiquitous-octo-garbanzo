@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9" pages="4">
   <diagram id="LPUeMKfKiTVFnhuKSRKt" name="第 4 页">
     <mxGraphModel dx="792" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
@@ -934,7 +934,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1b6B0xYtA3FDGGVHSLJP" name="第 6 页">
-    <mxGraphModel dx="792" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="1213" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -944,8 +944,8 @@
         <mxCell id="9SWApzhPz-wyJXh_oPMK-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="533.75" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;MCQA&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;上下文&lt;br&gt;[p;qa]&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="531.25" width="70" height="60" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-3" value="&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;MCQA&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-family: 宋体; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;上下文&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;[p;qa]&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="528.75" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9SWApzhPz-wyJXh_oPMK-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9SWApzhPz-wyJXh_oPMK-6" target="9SWApzhPz-wyJXh_oPMK-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1126,14 +1126,14 @@
             <mxPoint x="590" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-51" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;qa文本&lt;br&gt;节点编码&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="510" width="100" height="60" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-51" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;qa&lt;/font&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;文本&lt;br&gt;节点编码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="515" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-52" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;加入&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;图G&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="482.5" y="595" width="60" height="60" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-52" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;加入&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;图&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;G&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="487.5" y="600" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-53" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;基于文章P&lt;br&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;构造图&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="333.75" y="587.5" width="110" height="60" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-53" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;基于文章&lt;/font&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;P&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-family: 宋体;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;构造图&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="343.75" y="592.5" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9SWApzhPz-wyJXh_oPMK-54" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;M&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="750" y="668.75" width="20" height="20" as="geometry" />
@@ -1153,11 +1153,11 @@
             <mxPoint x="750" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;掩码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="692.5" y="680" width="60" height="40" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-58" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;掩码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="697.5" y="685" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-59" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;相似性得分&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="482.5" y="685" width="110" height="40" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-59" value="&lt;div style=&quot;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;相似性得分&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="492.5" y="690" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9SWApzhPz-wyJXh_oPMK-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;" parent="1" source="9SWApzhPz-wyJXh_oPMK-61" target="9SWApzhPz-wyJXh_oPMK-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1171,17 +1171,17 @@
             <mxPoint x="970" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-63" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;课程学习&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="860" y="647.5" width="100" height="40" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-63" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;课程学习&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="870" y="652.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;平均池化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="901.25" y="520" width="100" height="40" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-64" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;平均池化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="911.25" y="525" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;答案&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="547.5" width="60" height="40" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-65" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;答案&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="552.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9SWApzhPz-wyJXh_oPMK-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;GMDA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="882.5" y="712.5" width="80" height="40" as="geometry" />
+        <mxCell id="9SWApzhPz-wyJXh_oPMK-66" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;GMDA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="887.5" y="717.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
